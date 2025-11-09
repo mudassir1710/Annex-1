@@ -112,12 +112,12 @@ How roles were divided (example)
 - Tester: ran multiple simulation runs, recorded sample outputs, and checked edge cases (battery boundary, rain handling).
 - Git Manager: maintained the repo, created branches, and merged final changes.
 
-## AI Tool Reflection (if any)
+## AI Tool Reflection
 
 Tools used (example)
 
 - ChatGPT — helped draft the README structure, suggested wording for explanations, and added inline comments to `drone.cpp`.
-- GitHub Copilot — optionally assisted with small code comments and formatting (if used).
+- GitHub Copilot — optionally assisted with small code comments and formatting.
 
 What tasks AI tools helped with
 
